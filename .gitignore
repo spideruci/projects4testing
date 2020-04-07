@@ -4,7 +4,7 @@ test-output/
 
 # Gradle directories
 build/
-/bin/
+bin/
 
 # Some directories
 .settings/
@@ -15,3 +15,4 @@ tacoco.cp
 # Other files
 .classpath
 .project
+.classpath~master
