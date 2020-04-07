@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd ../spiderMath_Gradle && gradle clean build
+cd ../spiderMath_JUnit4 && mvn clean test
+cd ../spiderMath_JUnit5 && mvn clean test
+cd ../spiderMath_TestNG && mvn clean test

@@ -3,11 +3,11 @@
 
   <parent>
     <groupId>org.spideruci</groupId>
-    <artifactId>spiderMath_TestNG</artifactId>
+    <artifactId>spiderMath_JUnit</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>org.spideruci.benchmark.spiderMath_TestNG</groupId>
-  <artifactId>multiplication</artifactId>
+  <groupId>org.spideruci</groupId>
+  <artifactId>addition</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 </project>
